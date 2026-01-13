@@ -15,4 +15,3 @@
 <a href="https://github.com/felipecarvalhobarr/localizaDescarte" target=_blank><img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" target=_blank></a>
 
 
-<img width="2493" height="1281" alt="Captura de tela 2026-01-13 173353" src="https://github.com/user-attachments/assets/1a88465b-06da-440f-a686-0cd72d26b166" />
